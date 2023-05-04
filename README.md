@@ -2,6 +2,9 @@
 Repositorio do codigo fonte e instruções.
  
    Esta solução contem cadastro de usuario, titulos e centro de custo.
+   
+   ![image](https://user-images.githubusercontent.com/25961706/236300145-fda7cb72-0a91-4942-957d-f2254b6e84cd.png)
+
       
     Para utilizar a aplicação, comece cadastrando um usuario:
      
