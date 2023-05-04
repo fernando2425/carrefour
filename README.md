@@ -3,12 +3,12 @@ Repositorio do codigo fonte e instruções.
  
    Esta solução contem cadastro de usuario, titulos e centro de custo.
    
+   Para utilizar a aplicação, comece cadastrando um usuario:
+   
    ![image](https://user-images.githubusercontent.com/25961706/236300145-fda7cb72-0a91-4942-957d-f2254b6e84cd.png)
 
-      
-    Para utilizar a aplicação, comece cadastrando um usuario:
-     
-     ![image](https://user-images.githubusercontent.com/25961706/236299900-3bda29ff-02b6-4044-9cdf-a8097539b2ea.png)
+   Pegue o token de retorno e aplique as demais chamada rest da aplicação.   
+       
 
 O projeto joi desenvolvido nas tecnologias e ferramentas:
  
