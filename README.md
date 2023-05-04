@@ -1,2 +1,2 @@
-# api-meus-gastos
-Repositorio da API meus gastos.
+# Centro de Custo
+Repositorio do codigo fonte e instruções.
