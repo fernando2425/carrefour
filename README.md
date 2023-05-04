@@ -74,6 +74,9 @@ segue as url de referencias
                    }
  
 
+Para o relotario utilize este exemplo
+
+![image](https://user-images.githubusercontent.com/25961706/236310514-356b4925-7e70-444d-babd-905cef773260.png)
 
 
 O projeto joi desenvolvido nas tecnologias e ferramentas:
