@@ -2,6 +2,10 @@
 Repositorio do codigo fonte e instruções.
  
    Esta solução contem cadastro de usuario, titulos e centro de custo.
+      
+    Para utilizar a aplicação, comece cadastrando um usuario:
+     
+     ![image](https://user-images.githubusercontent.com/25961706/236299900-3bda29ff-02b6-4044-9cdf-a8097539b2ea.png)
 
 O projeto joi desenvolvido nas tecnologias e ferramentas:
  
@@ -25,6 +29,4 @@ O projeto joi desenvolvido nas tecnologias e ferramentas:
       The JVM level was changed from '11' to '17', review the [JDK Version Range](https://github.com/spring-projects/spring-framework/wiki/Spring-Framework-Versions#jdk-version-range) on the wiki for more details.
 
 
-     Para utilizar a aplicação, comece cadastrando um usuario:
-     
-     ![image](https://user-images.githubusercontent.com/25961706/236299900-3bda29ff-02b6-4044-9cdf-a8097539b2ea.png)
+    
