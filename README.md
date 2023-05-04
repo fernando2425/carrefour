@@ -10,6 +10,72 @@ Repositorio do codigo fonte e instruções.
    Pegue o token de retorno e aplique as demais chamada rest da aplicação.   
        
 
+segue as url de referencias
+
+  cadastros usuarios:
+   
+      url/api/usuarios
+      
+            json: {
+	
+                   "nome": "fernando",
+                   "senha":"123456",
+                   "email": "fernando1@gmail.com",
+                   "dataCadastro": "2023-05-04T18:02:57.468+00:00",
+                   "dataInativacao": null
+                  }
+      
+      
+     alterar usuarios 
+     
+     url/api/usuarios/id
+     
+           json: {
+
+                 "nome": "fernando alencar",
+                 "email": "fernando1@gmail.com",
+                 "senha":"123456",
+                 "foto": null,
+                 "dataCadastro": "2023-05-04T18:04:19.586+00:00",
+                 "dataInativacao": null
+                }
+
+     excluir usuario : api/usuarios/2
+     
+    
+ 
+  Cadastro do centro de custo
+  
+     url/api/centrodecustos
+     
+        json: {
+	
+                "descricao": "computador",
+                "observacao":"123456"
+
+               }
+ 
+ 
+ 
+ Cadastro Titulos
+ 
+     url/api/titulos: {
+              
+                       "descricao": "salario",
+                       "tipo": "APAGAR",
+                       "valor":"100.00",
+                       "dataReferencia":"2023-05-04T00:00:00",
+                       "dataVencimento":"2023-05-05T00:00:00",
+                       "centrosDeCustos":[
+                        {
+                         "id":1
+                        }
+                       ]   
+                   }
+ 
+
+
+
 O projeto joi desenvolvido nas tecnologias e ferramentas:
  
       Documentação de referencia
